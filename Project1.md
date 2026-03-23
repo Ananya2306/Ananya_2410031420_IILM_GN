@@ -34,6 +34,8 @@ python app.py
 ```
 Enter a book title when prompted to get recommendations.
 
+Live :- https://github.com/Ananya2306/Simple_AI_Based_Book_Recommendation_System
+
 ## Dataset
 Name: Goodbooks-10k
 Contains: 10,000 book titles and user ratings
